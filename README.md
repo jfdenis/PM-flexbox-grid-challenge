@@ -1,4 +1,4 @@
-# try to make igual the next card
+# try to make equal the next card
 
 ## You can use flexbox, css-grid or both!
 
