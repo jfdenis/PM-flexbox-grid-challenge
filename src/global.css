@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
 body {
   margin: 0;
   padding: 0;
@@ -7,9 +8,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  font-family: sans-serif;
 }
 .card {
-  border: 1px solid red;
-  height: 250px;
+  border: 1px solid rgba(128, 128, 128, 0.507);
+  background-color: #f1f1f1;
+  border-radius: 7px;
+  height: 330px;
   width: 320px;
+  padding: 20px;
 }
