@@ -3,4 +3,13 @@ body {
   padding: 0;
   background-color: #c1c1c1;
   box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  border: 1px solid red;
+  height: 250px;
+  width: 320px;
 }
